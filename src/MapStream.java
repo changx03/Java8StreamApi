@@ -221,6 +221,7 @@ public class MapStream {
 //        streamReuse();
 //        streamSupplier();
 
-        AdvancedStream myClass = new AdvancedStream();
+//        AdvancedStream myClass = new AdvancedStream();
+        StreamFlatMap myClass2 = new StreamFlatMap();
     }
 }

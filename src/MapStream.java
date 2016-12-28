@@ -222,6 +222,9 @@ public class MapStream {
 //        streamSupplier();
 
 //        AdvancedStream myClass = new AdvancedStream();
-        StreamFlatMap myClass2 = new StreamFlatMap();
+//        StreamFlatMap myClass2 = new StreamFlatMap();
+
+//        StreamReduce myClass3 = new StreamReduce();
+        ParallelStreams myClass4 = new ParallelStreams();
     }
 }
